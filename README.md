@@ -27,13 +27,13 @@ var me = {
 }
 
 var skills = {
-    languages: [ Javascript, Markdown, Portugol],
+    languages: [ Javascript, Markdown, Portugol, Batch ],
     
-    libraries: [ Discord.js, Jimp],
+    libraries: [ Discord.js, Jimp, Axios ],
     
-    platforms: [ Firebase, Heroku],
+    platforms: [ Firebase, Heroku ],
     
-    ide:       [ Visual Studio Code, Notepad++, Portugol Studio],
+    ide:       [ Visual Studio Code, Notepad++, Portugol Studio ],
     
     plans:     [ Html, Css, Python ],
     
@@ -43,7 +43,8 @@ var skills = {
 }
 
 var public_projects = {
-    colorRanker: "https://github.com/Nick-Gabe/color-ranker"
+    ColorRanker: "https://github.com/Nick-Gabe/color-ranker",
+    SteamRPC: "https://github.com/Nick-Gabe/SteamRPC"
 }
 ~~~
 ![gitstats](https://github-readme-stats.vercel.app/api?username=Nick-Gabe&show_icons=true&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)

@@ -3,6 +3,7 @@
 ![email](https://img.shields.io/badge/GMAIL-NicolasGabrielCtt@gmail.com-2780a4?style=forflat-square&logo=gmail&logoColor=white&labelColor=040f0f)
 [![github](https://img.shields.io/badge/GITHUB-Nick--Gabe-2780a4?style=forflat-square&logo=github&logoColor=white&labelColor=040f0f)](https://github.com/Nick-Gabe)
 [![npm](https://img.shields.io/badge/NPM-Nick--Gabe-2780a4?style=forflat-square&logo=npm&logoColor=white&labelColor=040f0f)](https://www.npmjs.com/~nick-gabe)
+[![fiverr](https://img.shields.io/static/v1?label=FIVERR&style=forflat-square&message=nickgabe&color=2780a4&logo=Fiverr&logoColor=1DBF73&labelColor=040f0f)](https://www.fiverr.com/nickgabe?up_rollout=true)
 ![views](https://komarev.com/ghpvc/?username=Nick-Gabe&style=forflat-square&logo=npm&logoColor=white&labelColor=040f0f)
 
 I started learning about programming has been almost a year now. Javascript is the first language I learned, but I'm looking forward to put other languages in my curriculum. Already did some Discord bots and simple programs, at the moment I'm improving my Javascript and learning a bit of HTML.

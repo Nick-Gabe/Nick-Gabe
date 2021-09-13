@@ -41,11 +41,6 @@ var skills = {
         studying(...this.plans) || improving(...this.languages)
     }
 }
-
-var public_projects = {
-    ColorRanker: "https://github.com/Nick-Gabe/color-ranker",
-    SteamRPC: "https://github.com/Nick-Gabe/SteamRPC"
-}
 ~~~
 ![gitstats](https://github-readme-stats.vercel.app/api?username=Nick-Gabe&show_icons=true&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Gabe&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)

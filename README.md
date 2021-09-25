@@ -15,7 +15,7 @@ Hope I can work with this in a near future, it's my hobby and what I like to do.
 // console.log("Hello World!")
 
 const me = {
-    name: Nícolas Gabriel Da Silva Sena,
+    name: Nícolas Gabriel,
     country: Brazil,
     age: 17,
     social: {

@@ -14,7 +14,7 @@ Hope I can work with this in a near future, it's my hobby and what I like to do.
 ~~~javascript
 // console.log("Hello World!")
 
-var me = {
+const me = {
     name: Nícolas Gabriel Da Silva Sena,
     country: Brazil,
     age: 17,
@@ -26,16 +26,16 @@ var me = {
     }
 }
 
-var skills = {
-    languages: [ Javascript, Markdown, Portugol, Batch ],
+const skills = {
+    languages: [ Javascript, Markdown, Portugol, Batch, Html, Css],
     
     libraries: [ Discord.js, Jimp, Axios ],
     
-    platforms: [ Firebase, Heroku ],
+    platforms: [ Firebase, Heroku, Discloud ],
     
     ide:       [ Visual Studio Code, Notepad++, Portugol Studio ],
     
-    plans:     [ Html, Css, Python ],
+    plans:     [ Python, Vue ],
     
     always() {
         studying(...this.plans) || improving(...this.languages)

@@ -20,9 +20,7 @@ const me = {
     age: 17,
     social: {
         discord: "Snickers#5005",
-        twitter: "MyNickIsNick_",
         fiverr:  "nickgabe",
-        steam:   "My nick is Nick"
     }
 }
 

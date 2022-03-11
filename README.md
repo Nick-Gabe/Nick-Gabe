@@ -6,7 +6,7 @@
 [![fiverr](https://img.shields.io/static/v1?label=FIVERR&style=forflat-square&message=nickgabe&color=2780a4&logo=Fiverr&logoColor=1DBF73&labelColor=040f0f)](https://www.fiverr.com/nickgabe?up_rollout=true)
 ![views](https://komarev.com/ghpvc/?username=Nick-Gabe&style=forflat-square&logo=npm&logoColor=white&labelColor=040f0f)
 
-I started learning about programming has been almost a year now. Javascript is the first language I learned, but I'm looking forward to put other languages in my curriculum. Already did some Discord bots, websites and programs, at the moment I'm improving my Css and learning more about frameworks.
+I started learning about programming has been almost a year and a half now. Javascript is the first language I learned, but I'm looking forward to put other languages in my curriculum. Already did some Discord bots, websites and programs, at the moment I'm improving my Css and learning more about frameworks.
 
 ### 📂 Nick-Gabe/Information.js ︵︵︵︵︵︵︵︵︵︵
 ~~~javascript
@@ -23,15 +23,15 @@ const me = {
 }
 
 const skills = {
-    languages: [ Javascript, Markdown, Portugol, Batch, Html, Css],
+    languages: [ Javascript, Portugol, Batch ],
 
-    others:    [ Bootstrap, Scss/Sass ],
+    others:    [ Bootstrap, Scss/Sass, Markdown, Html, Css, English ],
     
     libraries: [ Discord.js, Jimp, Axios ],
     
     platforms: [ Firebase, Heroku, Discloud ],
     
-    ide:       [ Visual Studio Code, Notepad++, Portugol Studio ],
+    ides:      [ Visual Studio Code, Notepad++, Portugol Studio ],
     
     plans:     [ Python, Vue ],
     
@@ -40,5 +40,5 @@ const skills = {
     }
 }
 ~~~
-![gitstats](https://github-readme-stats.vercel.app/api?username=Nick-Gabe&show_icons=true&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Gabe&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Gabe&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5)|<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nick-Gabe&show_icons=true&bg_color=161b22&text_color=e99545&title_color=71bbe5&icon_color=71bbe5" height=280/>
+:----:|:----:

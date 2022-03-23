@@ -43,5 +43,5 @@ jobs:
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
         git add -A
-        git commit -m "Updated articles" || exit 0
+        git commit -m "Updated readme" || exit 0
         git push

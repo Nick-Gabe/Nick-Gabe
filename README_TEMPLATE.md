@@ -69,7 +69,6 @@
 *Chooses one random follower of mine every day to showcase here.*
 
 %{followerOfTheDay}
-<img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/>
 <hr>
 
 <p align="center">

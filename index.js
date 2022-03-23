@@ -24,10 +24,8 @@ function calculateDate() {
 async function updateREADME(user) {
 
     async function getData(url) {
-        return (await axios.get(url,
-            {
-                'user-agent': 'node.js'
-            }))?.data
+        const response = await axios.get(url, { 'user-agent': 'node.js' })
+        return response?.data
     }
 
     async function getRecentRepos(quantity) {

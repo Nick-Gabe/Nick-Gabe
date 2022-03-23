@@ -7,7 +7,7 @@ module.exports = async function (info) {
     avatar.resize(269, 269)
     avatar.mask(avatarmask, 0, 0)
 
-    const base = await Jimp.read('resources/images/coderBase.png')
+    const base = await Jimp.read('resources/images/CoderBase.png')
     const textFont = await Jimp.loadFont('resources/fonts/Coder30.fnt')
     const titleFont = await Jimp.loadFont('resources/fonts/Coder48.fnt')
     const dateFont = await Jimp.loadFont('resources/fonts/Coder18.fnt')

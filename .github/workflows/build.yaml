@@ -1,10 +1,9 @@
 # Name of workflow
-name: Build README
+name: Update README
 
-# Run workflow at 12:01 on Sunday, Wednesday, and Friday
 on:
   schedule:
-    - cron: '0 1 0 * * ?'
+    - cron: '0 1 0 ? * * *'
   # Run workflow on pushes to main branch
   push:
     branches:

@@ -73,7 +73,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/ver3k"><img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/JhonatanNeves"><img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

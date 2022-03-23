@@ -3,7 +3,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '1 0 */1 * *'
+    - cron: '*/10 * * * *'
   # Run workflow on pushes to main branch
   push:
     branches:
@@ -31,10 +31,10 @@ jobs:
       env:
         CI: true
 
-    # Run script "updateReadme.js" 
+    # Run script "index.js" 
     - name: Update README
       run: |-
-        node updateReadme.js
+        node index.js
         cat README.md
 
     # Commit changes

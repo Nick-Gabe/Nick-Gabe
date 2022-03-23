@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 17 years
 * Front-end programmer
 * Currently studying Frameworks
-* 1 Year, 4 Months and 12 Days of experience
+* 1 Year, 4 Months and 13 Days of experience
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -73,7 +73,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/JhonatanNeves"><img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/doug-mab"><img style="height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

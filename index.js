@@ -56,7 +56,7 @@ async function updateREADME(user) {
 
         const repoSection = await getRecentRepos(6)
 
-        const followerHtml = `<a href="${selectedFollower.html_url}"><img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>`
+        const followerHtml = `<a href="${selectedFollower.html_url}"><img style="height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>`
 
         const updatedMd = data
             .replace(

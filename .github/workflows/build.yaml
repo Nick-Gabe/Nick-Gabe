@@ -1,0 +1,47 @@
+# Name of workflow
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  # Run workflow on pushes to main branch
+  push:
+    branches:
+      - automated-test
+
+# Steps to carry out
+jobs:
+  build:
+    # Create a ubuntu virtual machine
+    runs-on: ubuntu-latest
+
+    # Checkout repo code
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    # Install node
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16.10
+    - run: npm install
+    - run: npm run build --if-present
+      env:
+        CI: true
+
+    # Run script "index.js" 
+    - name: Update README
+      run: |-
+        node index.js
+        cat README.md
+
+    # Commit changes
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "readme-bot@example.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated articles" || exit 0
+        git push

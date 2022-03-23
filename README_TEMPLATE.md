@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 17 years
 * Front-end programmer
 * Currently studying Frameworks
-* 1 Year, 4 Months and 12 Days of experience
+* %{myexperience}
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,12 +42,7 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
-<a href="https://github.com/Nick-Gabe/Nick-Gabe"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/brawlstars-api"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=brawlstars-api&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/date-stringifier"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=date-stringifier&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/countdown-website"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/Discord-bad-apple"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/Mini-Projects"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Mini-Projects&theme=moltack&border_radius=20"/></a>
+%{recentworks}
 
 
 ## **🌠You can find me on:**
@@ -73,7 +68,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/JhonatanNeves"><img style="max-height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+%{followerOfTheDay}
 <hr>
 
 <p align="center">

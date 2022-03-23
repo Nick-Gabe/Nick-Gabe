@@ -7,7 +7,7 @@ on:
   # Run workflow on pushes to main branch
   push:
     branches:
-      - main
+      - automated-test
 
 # Steps to carry out
 jobs:

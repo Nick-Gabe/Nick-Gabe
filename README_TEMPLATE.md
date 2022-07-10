@@ -1,6 +1,5 @@
-%{randomNum}
 <p align="center">
-  <img src="./resources/images/header.gif" />
+  <img src="./src/resources/images/header.gif" />
 </p>
 <hr>
 

@@ -75,7 +75,7 @@
 %{followerOfTheDay}
 <hr>
 
-Do you want a dynamic README aswell? Just follow my 5 minute [tutorial](./TUTORIAL.md)!
+Do you want a dynamic README? Just follow my 5 minute [tutorial](./TUTORIAL.md)!
 
 <p align="center">
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nick-Gabe&theme=moltack"/>

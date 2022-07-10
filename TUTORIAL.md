@@ -15,3 +15,6 @@ I decided to create this since it is really easy taking mine as a base, and you'
   - You can add custom replacers inside the [replacers folder](./replacers), you can imagine the replacers just like React components, with each file having its own thing to replace, and the file name is what it will replace.
 - **How to test if its working?**
   - That's simple! After creating your README_TEMPLATE and maybe some custom replacers, you just need to run `npm start` and your README will update itself with the new information. Magic, right?
+
+Want to see it in a video? Here it is!
+https://youtu.be/Dd28Zy4Rm6g

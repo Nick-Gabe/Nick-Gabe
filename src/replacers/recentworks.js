@@ -13,5 +13,5 @@ module.exports = async function (user) {
   )}&theme=moltack&border_radius=20"/>
   </a>`;
 
-  return repos.slice(0, process.env.repoQuantity).sort(getRecents).map(formatJson).join('\n');
+  return repos.sort(getRecents).slice(0, process.env.repoQuantity).map(formatJson).join('\n');
 };

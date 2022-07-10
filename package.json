@@ -1,25 +1,16 @@
 {
-  "name": "nick-gabe",
-  "version": "1.0.0",
-  "description": "<p align=\"center\">\r   <img src=\"./pRF411Y4.gif\" />\r </p>\r <hr>",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
+    "prettier:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Nick-Gabe/Nick-Gabe.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Nick-Gabe/Nick-Gabe/issues"
-  },
+  "author": "Nick-Gabe",
   "homepage": "https://github.com/Nick-Gabe/Nick-Gabe#readme",
   "dependencies": {
     "axios": "^0.26.1",
-    "date-stringifier": "^1.0.1",
-    "jimp": "^0.16.1"
+    "date-stringifier": "^1.1.4",
+    "dotenv": "^16.0.1",
+    "jimp": "^0.16.1",
+    "prettier": "^2.7.1"
   }
 }

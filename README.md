@@ -1,3 +1,4 @@
+835.7885335859477
 <p align="center">
   <img src="./resources/images/header.gif" />
 </p>
@@ -14,14 +15,14 @@
 </p>
 
 <p align="center">
-👋 Hello! I'm Nícolas Gabriel. I am currently open for jobs, contribute in projects and talk, feel free to contact me.
+👋 Hello! I'm Nícolas Gabriel, a brazilian programmer.
 </p>
 
 ## **🐉 About me:**
-* Nícolas Gabriel, 17 years
-* Front-end programmer
+* Nícolas Gabriel, 18 years
+* Full Stack programmer
 * Currently studying Frameworks
-* 1 Year, 4 Months and 13 Days of experience
+* I have 1 Year, 8 Months and 0 Days of experience
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,12 +43,24 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
-<a href="https://github.com/Nick-Gabe/Nick-Gabe"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/brawlstars-api"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=brawlstars-api&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/date-stringifier"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=date-stringifier&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/countdown-website"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/Discord-bad-apple"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&theme=moltack&border_radius=20"/></a>
-<a href="https://github.com/Nick-Gabe/Mini-Projects"><img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Mini-Projects&theme=moltack&border_radius=20"/></a>
+<a href="https://github.com/Nick-Gabe/custom-counter-website">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=custom-counter-website&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/brawlstars-api">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=brawlstars-api&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/calc-website">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=calc-website&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/ccsseraphini">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ccsseraphini&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/countdown-website">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/color-ranker">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=color-ranker&theme=moltack&border_radius=20"/>
+  </a>
 
 
 ## **🌠You can find me on:**
@@ -73,7 +86,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/doug-mab"><img style="height:150px;" src=./resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/JoelSantos-JS" alt="Joel Santos"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

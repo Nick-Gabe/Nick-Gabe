@@ -1,3 +1,4 @@
+%{randomNum}
 <p align="center">
   <img src="./resources/images/header.gif" />
 </p>
@@ -14,12 +15,12 @@
 </p>
 
 <p align="center">
-👋 Hello! I'm Nícolas Gabriel. I am currently open for jobs, contribute in projects and talk, feel free to contact me.
+👋 Hello! I'm Nícolas Gabriel, a brazilian programmer.
 </p>
 
 ## **🐉 About me:**
-* Nícolas Gabriel, 17 years
-* Front-end programmer
+* Nícolas Gabriel, 18 years
+* Full Stack programmer
 * Currently studying Frameworks
 * %{myexperience}
 

@@ -89,7 +89,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/JoelSantos-JS" alt="Joel Santos"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/anandatorquato" alt="Ananda Torquato"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 Do you want a dynamic README? Just follow my 5 minute [tutorial](./TUTORIAL.md)!

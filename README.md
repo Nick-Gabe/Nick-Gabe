@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Frameworks
-* I have 1 Year, 10 Months and 26 Days of experience
+* I have 1 Year, 10 Months and 27 Days of experience
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -93,7 +93,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/LuisDomiciano" alt="Luis Domiciano"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/artenlf" alt="Luís Felipe Arten"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 Do you want a dynamic README? Just follow my 5 minute [tutorial](./TUTORIAL.md)!

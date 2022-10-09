@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Frameworks
-* I have 1 Year, 10 Months and 28 Days of experience
+* I have 1 Year, 10 Months and 29 Days of experience
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,23 +50,23 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/javascript-polyfills">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=javascript-polyfills&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/dynamic-readme">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dynamic-readme&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/pomodoro-website">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=pomodoro-website&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/date-stringifier">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=date-stringifier&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/eleicoes-br">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=eleicoes-br&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/Discord-bad-apple">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/ensinando-javascript">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ensinando-javascript&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/coding-challenges">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=coding-challenges&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/resultados-loterias-caixa">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=resultados-loterias-caixa&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -93,7 +93,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/euchico" alt="Francisco de Paula"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/rafaeelneto" alt="Rafael Neto"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 Do you want a dynamic README? Just follow my 5 minute [tutorial](./TUTORIAL.md)!

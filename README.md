@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Frameworks
-* I have 1 Year, 11 Months and 7 Days of experience
+* I have 1 Year, 11 Months and 8 Days of experience
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,6 +50,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/all-contributors">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=all-contributors&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
   </a>
@@ -64,9 +67,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/dynamic-readme">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dynamic-readme&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/pomodoro-website">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=pomodoro-website&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -93,7 +93,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Chooses one random follower of mine every day to showcase here.*
 
-<a href="https://github.com/luizcarvalho" alt="Luiz Carvalho"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
+<a href="https://github.com/artenlf" alt="Luís Felipe Arten"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>
 <hr>
 
 Do you want a dynamic README? Just follow my 5 minute [tutorial](./TUTORIAL.md)!

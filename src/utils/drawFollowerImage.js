@@ -1,19 +1,7 @@
-const { default: axios } = require('axios');
 const Jimp = require('jimp');
 const dateStringifier = require('date-stringifier');
 
-module.exports = async function (user) {
-  async function drawFollower() {
-    const followers = (await axios.get(`https://api.github.com/users/${user}/followers`)).data;
-
-    const randomFollowerIndex = Math.floor(Math.random() * followers.length);
-    const selectedFollower = (await axios.get((followers[randomFollowerIndex]?.url))).data;
-
-    return selectedFollower;
-  }
-
-  const follower = await drawFollower();
-
+async function drawFollowerImage(follower, fileName) {
   const avatar = await Jimp.read(follower.avatar_url);
   const avatarmask = await Jimp.read('./src/resources/images/levelMask.png');
   avatar.resize(269, 269);
@@ -33,7 +21,7 @@ module.exports = async function (user) {
 
     .print(titleFont, 430, 33, follower.login);
 
-  await base.writeAsync(`./src/resources/images/followerOfTheDay.png`);
+  await base.writeAsync(`./src/resources/images/${fileName}`);
+}
 
-  return `<a href="${follower.html_url}" alt="${follower.name}"><img style="height:150px;" src=./src/resources/images/followerOfTheDay.png alt="Follower of the day"/></a>`;
-};
+module.exports = { drawFollowerImage }

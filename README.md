@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/diegocosta" alt="Diego Costa"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+%{randomFollower}
 <hr>
 
 <p align="center">

@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Frameworks
-* I have 1 Year, 11 Months and 19 Days of experience
+* I have 1 Year, 11 Months and 20 Days of experience
 
 ## **💬 My skills:**
 <details>

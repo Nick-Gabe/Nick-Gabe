@@ -9,6 +9,9 @@ async function getRandomFollower(user) {
   return selectedFollower;
 }
 
+/**
+ * Still in progress
+ */
 async function getLastFollower(user) {
   const followQuantity = (await axios.get(`https://api.github.com/users/${user}`)).data.followers;
   const lastPage = Math.ceil(followQuantity / 30);

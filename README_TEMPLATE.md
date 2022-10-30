@@ -113,10 +113,10 @@
 
 **Discord**: Snickers#5005
 
-## 🐱‍💻 **Github last follower**
-*Showcases my latest follower here*
+## 🐱‍💻 **Github random follower**
+*Showcases a random follower here*
 
-%{lastFollower}
+%{randomFollower}
 <hr>
 
 <p align="center">

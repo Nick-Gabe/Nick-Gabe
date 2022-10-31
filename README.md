@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/sibelius" alt="Sibelius Seraphini"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/rafaeelneto" alt="Rafael Neto"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

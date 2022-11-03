@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Frameworks
-* I have 1 Year, 11 Months and 23 Days of experience
+* I have 1 Year, 11 Months and 24 Days of experience
 
 ## **💬 My skills:**
 <details>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/KlausEverWalkingDev" alt="Klaus Ferreira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/rafaeelneto" alt="Rafael Neto"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

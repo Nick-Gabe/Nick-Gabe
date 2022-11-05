@@ -20,8 +20,8 @@
 ## **🐉 About me:**
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
-* Currently studying Frameworks
-* I have 1 Year, 11 Months and 26 Days of experience
+* Currently studying Automatized tests and Live streaming
+* I have 1 Year, 11 Months and 27 Days of experience
 
 ## **💬 My skills:**
 <details>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/arthur322" alt="Arthur Conrado de Lima"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/AllanGd" alt="Allan Gedeão"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

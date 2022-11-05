@@ -20,7 +20,7 @@
 ## **🐉 About me:**
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
-* Currently studying Frameworks
+* Currently studying Automatized tests and Live streaming
 * %{myexperience}
 
 ## **💬 My skills:**

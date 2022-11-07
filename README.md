@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* I have 1 Year, 11 Months and 27 Days of experience
+* I have 1 Year, 11 Months and 28 Days of experience
 
 ## **💬 My skills:**
 <details>
@@ -90,6 +90,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/nick-portfolio">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=nick-portfolio&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/brawlstars-api">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=brawlstars-api&theme=moltack&border_radius=20"/>
   </a>
@@ -104,9 +107,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/meajudaplmds">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=meajudaplmds&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/all-contributors">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=all-contributors&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/Aleiass" alt="Aleia Martins"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/JonnathanRiquelmo" alt="null"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

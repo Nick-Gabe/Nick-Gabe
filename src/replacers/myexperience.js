@@ -26,8 +26,5 @@ module.exports = function () {
 
   const plural = (num, word) => `${num} ${word}${num === 1 ? '' : 's'}`;
 
-  return `There is ${plural(years.quotient, 'Year')}, ${plural(
-    months.quotient,
-    'Month',
-  )} and ${plural(days.quotient, 'Day')} since I started programming`;
+  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient,'Month')} and ${plural(days.quotient, 'Day')} since I started programming`;
 };

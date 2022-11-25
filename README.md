@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* 2 Years, 0 Months and 15 Days since I started programming
+* 2 Years, 0 Months and 16 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,11 +90,11 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
-<a href="https://github.com/Nick-Gabe/Nick-Gabe">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
-  </a>
 <a href="https://github.com/Nick-Gabe/date-stringifier">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=date-stringifier&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/Nick-Gabe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/nick-portfolio">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=nick-portfolio&theme=moltack&border_radius=20"/>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/diegocosta" alt="Diego Costa"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/amimaro" alt="Amir Zahlan"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

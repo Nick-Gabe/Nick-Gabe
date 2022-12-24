@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* 2 Years, 1 Month and 13 Days since I started programming
+* 2 Years, 1 Month and 14 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -93,14 +93,14 @@
 <a href="https://github.com/Nick-Gabe/ccsseraphini">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ccsseraphini&theme=moltack&border_radius=20"/>
   </a>
-<a href="https://github.com/Nick-Gabe/meajudaplmds">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=meajudaplmds&theme=moltack&border_radius=20"/>
-  </a>
 <a href="https://github.com/Nick-Gabe/countdown-website">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/dynamic-readme">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dynamic-readme&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/Nick-Gabe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/danielvieira7" alt="Daniel Vieira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/thigoap" alt="Thiago Abrahão Pereira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

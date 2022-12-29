@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* 2 Years, 1 Month and 18 Days since I started programming
+* 2 Years, 1 Month and 19 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,11 +90,14 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
-<a href="https://github.com/Nick-Gabe/Nick-Gabe">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
+<a href="https://github.com/Nick-Gabe/calc-website">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=calc-website&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/ccsseraphini">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ccsseraphini&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/Nick-Gabe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/countdown-website">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/>
@@ -104,9 +107,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/jest-from-scratch">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=jest-from-scratch&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/mateustozoni" alt="Mateus José Pretti Tozoni"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/luizwbr" alt="Luiz Felipe Weber"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

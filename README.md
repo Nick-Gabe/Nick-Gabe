@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* 2 Years, 2 Months and 0 Days since I started programming
+* 2 Years, 2 Months and 1 Day since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,14 +90,14 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/Nick-Gabe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/calc-website">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=calc-website&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/ccsseraphini">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ccsseraphini&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/Nick-Gabe">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Nick-Gabe&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/countdown-website">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=countdown-website&theme=moltack&border_radius=20"/>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Github random follower**
 *Showcases a random follower here*
 
-<a href="https://github.com/AllanGd" alt="Allan Gedeão"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/vitorrubio" alt="Vitor Luiz Rubio"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

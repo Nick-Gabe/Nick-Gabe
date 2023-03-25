@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying Automatized tests and Live streaming
-* 2 Years, 4 Months and 13 Days since I started programming
+* 2 Years, 4 Months and 14 Days since I started programming
 
 ## **💬 My skills:**
 <details>

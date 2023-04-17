@@ -20,7 +20,7 @@
 ## **🐉 About me:**
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
-* Currently studying Automatized tests and Live streaming
+* Currently studying React Native
 * %{myexperience}
 
 ## **💬 My skills:**
@@ -113,8 +113,8 @@
 
 **Discord**: Snickers#5005
 
-## 🐱‍💻 **Github random follower**
-*Showcases a random follower here*
+## 🐱‍💻 **Follower of the day**
+*Showcases a random GitHub follower here*
 
 %{randomFollower}
 <hr>

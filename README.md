@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/cristhianocunha" alt="CRISTHIANO CUNHA"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/wbotelhos" alt="Washington Botelho"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

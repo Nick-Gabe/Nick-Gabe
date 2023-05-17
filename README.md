@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 18 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 6 Months and 5 Days since I started programming
+* 2 Years, 6 Months and 6 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/tadeubrasil" alt="Tadeu Brasil"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/diegocoxta" alt="Diego Costa"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

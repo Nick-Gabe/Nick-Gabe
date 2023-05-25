@@ -4,10 +4,10 @@
 <hr>
 
 <p align="center">
-    <a href="https://twitter.com/MyNickIsNick_">
+    <a href="https://twitter.com/imnickgabe">
     <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/nicolas-gabriel/">
+    <a href="https://www.linkedin.com/in/nickgabe/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Nick-Gabe&style=for-the-badge"/>

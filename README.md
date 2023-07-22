@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 19 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 8 Months and 10 Days since I started programming
+* 2 Years, 8 Months and 11 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,6 +90,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/central-nickgabe">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&theme=moltack&border_radius=20"/>
   </a>
@@ -104,9 +107,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/is37">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=is37&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/ensinando-javascript">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=ensinando-javascript&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/rafaeelneto" alt="Rafael Neto"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/luizwbr" alt="Luiz Felipe Weber"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

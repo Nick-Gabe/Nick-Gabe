@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 19 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 8 Months and 15 Days since I started programming
+* 2 Years, 8 Months and 16 Days since I started programming
 
 ## **💬 My skills:**
 <details>

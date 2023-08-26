@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 19 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 9 Months and 15 Days since I started programming
+* 2 Years, 9 Months and 16 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,6 +90,9 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/central-nickgabe">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
   </a>
@@ -98,9 +101,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/central-nickgabe">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/foolan">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=foolan&theme=moltack&border_radius=20"/>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/rogerbenevento" alt="Rogerio"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/diegocoxta" alt="Diego Costa"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 19 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 10 Months and 25 Days since I started programming
+* 2 Years, 10 Months and 26 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,11 +90,11 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
-<a href="https://github.com/Nick-Gabe/Discord-bad-apple">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&theme=moltack&border_radius=20"/>
-  </a>
 <a href="https://github.com/Nick-Gabe/central-nickgabe">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/Discord-bad-apple">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=Discord-bad-apple&theme=moltack&border_radius=20"/>
   </a>
 <a href="https://github.com/Nick-Gabe/curso-alura-ts-avancado">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=curso-alura-ts-avancado&theme=moltack&border_radius=20"/>
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/tadeubrasil" alt="Tadeu Brasil"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/KlausEverWalkingDev" alt="Klaus Ferreira"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

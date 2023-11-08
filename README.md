@@ -21,7 +21,7 @@
 * Nícolas Gabriel, 19 years
 * Full Stack programmer
 * Currently studying React Native
-* 2 Years, 11 Months and 28 Days since I started programming
+* 2 Years, 11 Months and 29 Days since I started programming
 
 ## **💬 My skills:**
 <details>
@@ -90,6 +90,12 @@
 ## **🚀 My recent works:**
 *This section is updated via Javascript.*
 
+<a href="https://github.com/Nick-Gabe/elkjs">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=elkjs&theme=moltack&border_radius=20"/>
+  </a>
+<a href="https://github.com/Nick-Gabe/dagre">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dagre&theme=moltack&border_radius=20"/>
+  </a>
 <a href="https://github.com/Nick-Gabe/central-nickgabe">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&theme=moltack&border_radius=20"/>
   </a>
@@ -101,12 +107,6 @@
   </a>
 <a href="https://github.com/Nick-Gabe/debounce-and-throttle">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=debounce-and-throttle&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/eleicoes-br">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=eleicoes-br&theme=moltack&border_radius=20"/>
-  </a>
-<a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&theme=moltack&border_radius=20"/>
   </a>
 
 
@@ -133,7 +133,7 @@
 ## 🐱‍💻 **Follower of the day**
 *Showcases a random GitHub follower here*
 
-<a href="https://github.com/rafaellemes" alt="Rafael Lemes"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/tadeubrasil" alt="Tadeu Brasil"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 <hr>
 
 <p align="center">

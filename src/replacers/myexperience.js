@@ -1,7 +1,7 @@
 require('dotenv/config');
 
 module.exports = function (data) {
-  const started = data.started.split('/').reverse();
+  const started = data.startedProgramming.split('/').reverse();
   const past = new Date(...started).getTime();
   const now = new Date().getTime();
 
@@ -26,5 +26,8 @@ module.exports = function (data) {
 
   const plural = (num, word) => `${num} ${word}${num === 1 ? '' : 's'}`;
 
-  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient,'Month')} and ${plural(days.quotient, 'Day')} since I started programming`;
+  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient, 'Month')} and ${plural(
+    days.quotient,
+    'Day',
+  )} since I started programming`;
 };

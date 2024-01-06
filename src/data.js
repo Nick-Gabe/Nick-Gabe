@@ -5,41 +5,78 @@ const theme = require('./theme');
 
 module.exports = {
   user: 'nick-gabe',
-  started: '9/10/2020',
+  startedProgramming: '9/10/2020',
   repoQuantity: 6,
   header: {
-    align: 'center',
     image: {
       src: 'src/resources/images/nickgabe.png',
       width: 600,
+    },
+    styles: {
+      align: 'center',
+      style: 'for-the-badge',
+      color: theme.colors.lightSecondary,
     },
     links: [
       {
         type: 'link',
         name: 'twitter',
         link: 'https://twitter.com/imnickgabe',
-        style: 'for-the-badge',
-        color: theme.colors.lightSecondary,
       },
       {
         type: 'link',
         name: 'linkedin',
         link: 'https://linkedin.com/in/nickgabe',
-        style: 'for-the-badge',
-        color: theme.colors.lightSecondary,
       },
       {
         type: 'link',
         name: 'website',
         link: 'https://nickgabe.vercel.app',
         logo: 'esri',
-        style: 'for-the-badge',
-        color: theme.colors.lightSecondary,
       },
       {
         type: 'views',
-        style: 'for-the-badge',
-        color: theme.colors.lightSecondary,
+      },
+    ],
+  },
+  socialMedias: {
+    styles: {
+      align: 'left',
+      style: 'for-the-badge',
+      color: theme.colors.lightSecondary,
+    },
+    links: [
+      {
+        type: 'link',
+        name: 'twitter',
+        link: 'https://twitter.com/imnickgabe',
+      },
+      {
+        type: 'link',
+        name: 'linkedin',
+        link: 'https://linkedin.com/in/nickgabe',
+      },
+      {
+        type: 'link',
+        name: 'email',
+        logo: 'gmail',
+        link: 'mailto:nicolasgabrielctt@gmail.com',
+      },
+      {
+        type: 'link',
+        name: 'npm',
+        link: 'https://www.npmjs.com/~nick-gabe',
+      },
+      {
+        type: 'link',
+        name: 'codepen',
+        link: 'https://codepen.io/nick-gabe',
+      },
+      {
+        type: 'static',
+        name: 'imnickgabe',
+        logo: 'discord',
+        labelColor: theme.colors.secondary,
       },
     ],
   },

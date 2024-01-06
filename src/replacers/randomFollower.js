@@ -1,8 +1,8 @@
 const { getRandomFollower } = require('../utils/githubApi');
 const { drawFollowerImage } = require('../utils/drawFollowerImage');
 
-module.exports = async function (user) {
-  const follower = await getRandomFollower(user);
+module.exports = async function (data) {
+  const follower = await getRandomFollower(data.user);
   const imageName = 'randomFollower.png'
 
   drawFollowerImage(follower, imageName)

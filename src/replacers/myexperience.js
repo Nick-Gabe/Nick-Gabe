@@ -1,7 +1,7 @@
 require('dotenv/config');
 
-module.exports = function () {
-  const started = process.env.started.split('/').reverse();
+module.exports = function (data) {
+  const started = data.started.split('/').reverse();
   const past = new Date(...started).getTime();
   const now = new Date().getTime();
 

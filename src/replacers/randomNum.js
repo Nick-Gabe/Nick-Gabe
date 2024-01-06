@@ -8,6 +8,6 @@
 
 // You just need to create a function
 // and return the data you will use to replace
-module.exports = function (username) {
+module.exports = function () {
   return Math.random() * 1000;
 }

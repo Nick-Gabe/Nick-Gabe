@@ -1,8 +1,8 @@
 const { drawFollowerImage } = require('../utils/drawFollowerImage');
 const { getLastFollower } = require('../utils/githubApi')
 
-module.exports = async function (user) {
-  const follower = await getLastFollower(user);
+module.exports = async function (data) {
+  const follower = await getLastFollower(data.user);
   const imageName = 'lastFollower.png'
 
   drawFollowerImage(follower, imageName)

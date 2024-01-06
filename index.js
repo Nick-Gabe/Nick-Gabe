@@ -1,4 +1,6 @@
 const fs = require('fs');
+const data = require('./data.js');
+
 const replacers = fs
   .readdirSync('./src/replacers')
   .filter(file => file.endsWith('js'))
@@ -7,8 +9,8 @@ const replacers = fs
     return acc
   }, {});
 
-(async function updateREADME(user = process.env.user) {
-  fs.readFile('README_TEMPLATE.md', 'utf-8', async (err, data) => {
+(async function updateREADME() {
+  fs.readFile('README_TEMPLATE.md', 'utf-8', async (err, content) => {
     if (err) {
       throw err;
     }
@@ -25,8 +27,8 @@ const replacers = fs
       return str.replace(regex, () => data.shift());
     }
 
-    const updatedMd = await replaceAsync(data, replacementRegex, async (e) => {
-      return await replacers[e.slice(2, -1)](user);
+    const updatedMd = await replaceAsync(content, replacementRegex, async (e) => {
+      return await replacers[e.slice(2, -1)](data);
     });
 
     fs.writeFile('README.md', updatedMd, 'utf-8', (err) => {

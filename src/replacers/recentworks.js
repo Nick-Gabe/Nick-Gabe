@@ -10,7 +10,7 @@ module.exports = async function (user) {
   const formatJson = (elem) => `<a href="${elem.html_url}">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=${user}&repo=${encodeURIComponent(
     elem.name,
-  )}&theme=moltack&border_radius=20"/>
+  )}&title_color=FE3B7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20"/>
   </a>`;
 
   return repos.sort(getRecents).slice(0, process.env.repoQuantity).map(formatJson).join('\n');

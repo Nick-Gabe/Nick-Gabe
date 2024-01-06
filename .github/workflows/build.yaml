@@ -17,31 +17,31 @@ jobs:
 
     # Checkout repo code
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v2
 
-    # Install node
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16.10
-    - run: npm install
-    - run: npm run build --if-present
-      env:
-        CI: true
+      # Install node
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.10
+      - run: npm install
+      - run: npm run build --if-present
+        env:
+          CI: true
 
-    # Run script "index.js" 
-    - name: Update README
-      run: |-
-        node index.js
-        cat README.md
+      # Run script "index.js"
+      - name: Update README
+        run: |-
+          node src/index.js
+          cat README.md
 
-    # Commit changes
-    - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
-        git add -A
-        git commit -m "Updated readme" || exit 0
-        git push
+      # Commit changes
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Generated readme" || exit 0
+          git push

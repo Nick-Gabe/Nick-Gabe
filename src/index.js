@@ -3,10 +3,10 @@ const data = require('./data.js');
 
 const replacers = fs
   .readdirSync('./src/replacers')
-  .filter(file => file.endsWith('js'))
+  .filter((file) => file.endsWith('js'))
   .reduce((acc, cur) => {
-    acc[cur.slice(0, -3)] = require('./src/replacers/' + cur)
-    return acc
+    acc[cur.slice(0, -3)] = require('./replacers/' + cur);
+    return acc;
   }, {});
 
 (async function updateREADME() {

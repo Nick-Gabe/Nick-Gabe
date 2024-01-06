@@ -1,19 +1,4 @@
-<p align="center">
-  <img src="./src/resources/images/nickgabe.png" width=600 />
-</p>
-
-<p align="center">
-    <a href="https://nickgabe.vercel.app/">
-      <img src="https://img.shields.io/badge/website-4D4577?style=for-the-badge&logo=esri" />
-    </a>
-    <a href="https://twitter.com/imnickgabe">
-      <img src="https://img.shields.io/badge/Twitter-4D4577?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/nickgabe/">
-      <img src="https://img.shields.io/badge/LinkedIn-4D4577?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Nick-Gabe&style=for-the-badge&color=4D4577"/>
-</p>
+%{header}
 
 <p align="center">
 👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.
@@ -58,6 +43,7 @@
 *Showcases a random GitHub follower here*
 
 %{randomFollower}
+
 <hr>
 
 <p align="center">

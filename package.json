@@ -1,12 +1,13 @@
 {
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/index.js",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
     "prettier:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\""
   },
   "engines": {
     "node": "20.x"
   },
+  "main": "src/index.js",
   "author": "Nick-Gabe",
   "homepage": "https://github.com/Nick-Gabe/Nick-Gabe#readme",
   "dependencies": {

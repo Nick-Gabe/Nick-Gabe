@@ -5,11 +5,9 @@ module.exports = function (data) {
 
   const linkTypes = {
     link: ({ name, link, logo }) =>
-      `<a href="${link}">
-        <img src="https://img.shields.io/badge/${name}-${color}?style=${style}&logo=${
+      `<a href="${link}"><img src="https://img.shields.io/badge/${name}-${color}?style=${style}&logo=${
         logo ?? name
-      }&logoColor=white">
-      </a>`,
+      }&logoColor=white"></a>`,
     views: () =>
       `<img src="https://komarev.com/ghpvc/?username=${data.user}&style=${style}&color=${color}">`,
   };

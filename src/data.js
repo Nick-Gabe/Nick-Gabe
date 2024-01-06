@@ -81,7 +81,10 @@ module.exports = {
     ],
   },
   skillswall: {
-    style: 'for-the-badge',
+    styles: {
+      style: 'for-the-badge',
+      align: 'left',
+    },
     randomOrder: true,
     skills: [
       { name: 'JavaScript', isHighlighted: true },

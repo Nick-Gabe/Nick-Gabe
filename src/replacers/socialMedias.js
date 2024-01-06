@@ -5,11 +5,9 @@ module.exports = function (data) {
 
   const socialMediaTypes = {
     link: ({ name, link, logo }) =>
-      `<a href="${link}">
-        <img src="https://img.shields.io/badge/${name}-${color}?style=${style}&logo=${
+      `<a href="${link}"><img src="https://img.shields.io/badge/${name}-${color}?style=${style}&logo=${
         logo ?? name
-      }&logoColor=white">
-      </a>`,
+      }&logoColor=white"></a>`,
     static: ({ name, logo, message, labelColor }) =>
       `<img src="https://img.shields.io/badge/${name}-${
         message ? message + '-' : ''

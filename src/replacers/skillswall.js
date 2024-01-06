@@ -16,7 +16,7 @@ const encodeStr = (str) => {
 
 module.exports = function (data) {
   const skillswall = data.skillswall;
-  const style = skillswall.style;
+  const { style, align } = skillswall.styles;
 
   const imgSkills = skillswall.skills.map((skill) => {
     const name = encodeStr(skill.name.replace(/-/g, '_'));
@@ -31,5 +31,5 @@ module.exports = function (data) {
 
   if (skillswall.randomOrder) imgSkills.sort(() => Math.random() - 0.5);
 
-  return imgSkills.join('\n');
+  return `<p align="${align}">${imgSkills.join('\n')}</p>`;
 };

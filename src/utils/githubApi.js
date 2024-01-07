@@ -1,23 +1,26 @@
-async function Request(url) {
+async function GithubRequest(url) {
   const headers = new Headers({
     'Content-Type': 'application/json',
     'user-agent': 'node.js',
   });
-  return await (await fetch(url, headers)).json();
+  if (process.env.GITHUB_TOKEN) {
+    headers.append('Authorization', `Bearer ${process.env.GITHUB_TOKEN}`);
+  }
+  return await (await fetch(`https://api.github.com/${url}`, headers)).json();
 }
 
 async function getRandomFollower(user) {
-  const followers = await Request(`https://api.github.com/users/${user}/followers`);
+  const followers = await GithubRequest(`users/${user}/followers`);
 
   const randomFollowerIndex = Math.floor(Math.random() * followers.length);
-  const selectedFollowerUrl = followers[randomFollowerIndex]?.url;
-  const selectedFollower = await Request(selectedFollowerUrl);
+  const selectedFollowerName = followers[randomFollowerIndex].login;
+  const selectedFollower = await GithubRequest(`users/${selectedFollowerName}`);
 
   return selectedFollower;
 }
 
 async function getRepositories(user) {
-  const repositories = Request(`https://api.github.com/users/${user}/repos`);
+  const repositories = GithubRequest(`users/${user}/repos`);
   return repositories;
 }
 

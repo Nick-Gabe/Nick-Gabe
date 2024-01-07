@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node --env-file=.env src/index.js",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
     "prettier:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\""
   },

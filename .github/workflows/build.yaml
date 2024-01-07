@@ -23,7 +23,7 @@ jobs:
       - run: npm install --production
 
       - name: Generate README
-        run: node src/index.js
+        run: GITHUB_TOKEN={{ secrets.GITHUB_TOKEN }} node src/index.js
 
       - name: Commit and push if changed
         run: |-

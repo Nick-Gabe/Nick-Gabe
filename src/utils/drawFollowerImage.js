@@ -24,4 +24,4 @@ async function drawFollowerImage(follower, fileName) {
   await base.writeAsync(`./src/resources/images/${fileName}`);
 }
 
-module.exports = { drawFollowerImage }
+module.exports = { drawFollowerImage };

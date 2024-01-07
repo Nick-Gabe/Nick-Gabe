@@ -16,22 +16,23 @@ module.exports = {
       align: 'center',
       style: 'for-the-badge',
       color: theme.colors.lightSecondary,
+      logoColor: theme.colors.white,
     },
-    links: [
+    badges: [
       {
-        type: 'link',
+        type: 'badge',
         name: 'twitter',
-        link: 'https://twitter.com/imnickgabe',
+        href: 'https://twitter.com/imnickgabe',
       },
       {
-        type: 'link',
+        type: 'badge',
         name: 'linkedin',
-        link: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/nickgabe',
       },
       {
-        type: 'link',
+        type: 'badge',
         name: 'website',
-        link: 'https://nickgabe.vercel.app',
+        href: 'https://nickgabe.vercel.app',
         logo: 'esri',
       },
       {
@@ -44,36 +45,31 @@ module.exports = {
       align: 'left',
       style: 'for-the-badge',
       color: theme.colors.lightSecondary,
+      logoColor: theme.colors.white,
     },
     links: [
       {
-        type: 'link',
         name: 'twitter',
-        link: 'https://twitter.com/imnickgabe',
+        href: 'https://twitter.com/imnickgabe',
       },
       {
-        type: 'link',
         name: 'linkedin',
-        link: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/nickgabe',
       },
       {
-        type: 'link',
         name: 'email',
         logo: 'gmail',
-        link: 'mailto:nicolasgabrielctt@gmail.com',
+        href: 'mailto:nicolasgabrielctt@gmail.com',
       },
       {
-        type: 'link',
         name: 'npm',
-        link: 'https://www.npmjs.com/~nick-gabe',
+        href: 'https://www.npmjs.com/~nick-gabe',
       },
       {
-        type: 'link',
         name: 'codepen',
-        link: 'https://codepen.io/nick-gabe',
+        href: 'https://codepen.io/nick-gabe',
       },
       {
-        type: 'static',
         name: 'imnickgabe',
         logo: 'discord',
         labelColor: theme.colors.secondary,

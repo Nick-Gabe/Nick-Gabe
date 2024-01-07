@@ -1,21 +1,28 @@
+const { generateBadge, generateViewsBadge } = require('../utils/generateBadge');
+const { generateElement } = require('../utils/generateElement');
+
 module.exports = function (data) {
   const header = data.header;
-  const { style, align } = header.styles;
-  const color = header.styles.color.replace('#', '');
+  const { align, ...badgeGenericStyles } = header.styles;
 
-  const linkTypes = {
-    link: ({ name, link, logo }) =>
-      `<a href="${link}"><img src="https://img.shields.io/badge/${name}-${color}?style=${style}&logo=${
-        logo ?? name
-      }&logoColor=white"></a>`,
-    views: () =>
-      `<img src="https://komarev.com/ghpvc/?username=${data.user}&style=${style}&color=${color}">`,
+  const badgeTypes = {
+    badge: (badgeProperties) => generateBadge(badgeProperties),
+    views: (badgeProperties) => generateViewsBadge({ username: data.user, ...badgeProperties }),
   };
 
-  const headerImage = `<img src="${header.image.src}" width="${header.image.width ?? 600}">`;
-  const headerLinksHTML = header.links.map((link) => linkTypes[link.type](link)).join('\n');
+  const headerImage = generateElement('img', { ...header.image });
 
-  const sections = [headerImage, headerLinksHTML];
+  const headerBadgesHTML = header.badges
+    .map(({ type, ...badgeProperties }) =>
+      badgeTypes[type]({
+        ...badgeProperties,
+        ...badgeGenericStyles,
+        logo: badgeProperties.logo ?? badgeProperties.name,
+      }),
+    )
+    .join('\n');
 
-  return sections.map((section) => `<p align="${align}">${section}</p>`).join('\n');
+  const sections = [headerImage, headerBadgesHTML];
+
+  return sections.map((section) => generateElement('p', { children: section, align })).join('\n');
 };

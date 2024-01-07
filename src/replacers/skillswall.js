@@ -1,4 +1,6 @@
 const theme = require('../theme');
+const { generateBadge } = require('../utils/generateBadge');
+const { generateElement } = require('../utils/generateElement');
 
 const wallColors = [theme.colors.secondary, theme.colors.lightSecondary];
 const highlightColor = theme.colors.primary;
@@ -6,30 +8,27 @@ const highlightColor = theme.colors.primary;
 const randomItem = (array) => array[Math.floor(Math.random() * array.length)];
 
 const getWallColor = (options = { isHighlighted: false }) => ({
-  background: options.isHighlighted ? highlightColor : randomItem(wallColors),
-  textColor: theme.colors.white,
+  color: options.isHighlighted ? highlightColor : randomItem(wallColors),
+  logoColor: theme.colors.white,
 });
 
-const encodeStr = (str) => {
-  return encodeURI(str.toLowerCase());
+const encodeStr = (str, replacer) => {
+  return encodeURI(str.toLowerCase().replace(/-/g, replacer));
 };
 
 module.exports = function (data) {
   const skillswall = data.skillswall;
-  const { style, align } = skillswall.styles;
+  const { align, ...badgeGenericStyles } = skillswall.styles;
 
   const imgSkills = skillswall.skills.map((skill) => {
-    const name = encodeStr(skill.name.replace(/-/g, '_'));
-    const logo = encodeStr((skill.logo ?? skill.name).replace(/[ _]/g, '-'));
-
+    const name = encodeStr(skill.name, '_');
+    const logo = encodeStr(skill.logo ?? skill.name, '+');
     const colors = getWallColor({ isHighlighted: skill.isHighlighted });
-    const bgColor = colors.background.replace('#', '');
-    const textColor = colors.textColor.replace('#', '');
 
-    return `<img src="https://img.shields.io/badge/${name}-${bgColor}?style=${style}&logo=${logo}&logoColor=${textColor}">`;
+    return generateBadge({ name, logo, ...badgeGenericStyles, ...colors });
   });
 
   if (skillswall.randomOrder) imgSkills.sort(() => Math.random() - 0.5);
 
-  return `<p align="${align}">${imgSkills.join('\n')}</p>`;
+  return generateElement('p', { children: imgSkills.join('\n'), align });
 };

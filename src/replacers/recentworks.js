@@ -1,10 +1,7 @@
-require('dotenv/config');
-const axios = require('axios').default;
+const { getRepositories } = require('../utils/githubApi');
 
 module.exports = async function (data) {
-  const repos = (
-    await axios.get(`https://api.github.com/users/${data.user}/repos`, { 'user-agent': 'node.js' })
-  ).data;
+  const repos = await getRepositories(data.user);
 
   const getRecents = (a, b) => (new Date(a.updated_at) >= new Date(b.updated_at) ? -1 : 1);
   const formatJson = (elem) =>

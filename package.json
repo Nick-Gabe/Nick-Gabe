@@ -11,10 +11,10 @@
   "author": "Nick-Gabe",
   "homepage": "https://github.com/Nick-Gabe/Nick-Gabe#readme",
   "dependencies": {
-    "axios": "^0.26.1",
     "date-stringifier": "^1.1.4",
-    "dotenv": "^16.0.1",
-    "jimp": "^0.16.1",
-    "prettier": "^2.7.1"
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.1"
   }
 }

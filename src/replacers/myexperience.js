@@ -1,5 +1,3 @@
-require('dotenv/config');
-
 module.exports = function (data) {
   const started = data.startedProgramming.split('/').reverse();
   const past = new Date(...started).getTime();

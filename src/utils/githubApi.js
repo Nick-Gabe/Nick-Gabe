@@ -1,26 +1,24 @@
-const { default: axios } = require('axios');
+async function Request(url) {
+  const headers = new Headers({
+    'Content-Type': 'application/json',
+    'user-agent': 'node.js',
+  });
+  return await (await fetch(url, headers)).json();
+}
 
 async function getRandomFollower(user) {
-  const followers = (await axios.get(`https://api.github.com/users/${user}/followers`)).data;
+  const followers = await Request(`https://api.github.com/users/${user}/followers`);
 
   const randomFollowerIndex = Math.floor(Math.random() * followers.length);
-  const selectedFollower = (await axios.get((followers[randomFollowerIndex]?.url))).data;
+  const selectedFollowerUrl = followers[randomFollowerIndex]?.url;
+  const selectedFollower = await Request(selectedFollowerUrl);
 
   return selectedFollower;
 }
 
-/**
- * Still in progress
- */
-async function getLastFollower(user) {
-  const followQuantity = (await axios.get(`https://api.github.com/users/${user}`)).data.followers;
-  const lastPage = Math.ceil(followQuantity / 30);
-  const followers = (await axios.get(`https://api.github.com/users/${user}/followers?page=${lastPage}`)).data;
-
-  const lastFollowerIndex = followers.length - 1;
-  const selectedFollower = (await axios.get((followers[lastFollowerIndex]?.url))).data;
-
-  return selectedFollower;
+async function getRepositories(user) {
+  const repositories = Request(`https://api.github.com/users/${user}/repos`);
+  return repositories;
 }
 
-module.exports = { getRandomFollower, getLastFollower }
+module.exports = { getRandomFollower, getRepositories };

@@ -22,7 +22,7 @@ module.exports = function (data) {
     )
     .join('\n');
 
-  const sections = [headerImage, headerBadgesHTML];
+  const sections = [headerImage, headerBadgesHTML, header.description];
 
   return sections.map((section) => generateElement('p', { children: section, align })).join('\n');
 };

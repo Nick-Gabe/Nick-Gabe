@@ -1,9 +1,5 @@
 %{header}
 
-<p align="center">
-👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.
-</p>
-
 ## **About me:**
 
 * Nícolas Gabriel, 19 years

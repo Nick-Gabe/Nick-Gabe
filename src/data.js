@@ -8,16 +8,17 @@ module.exports = {
   startedProgramming: '9/10/2020',
   repoQuantity: 6,
   header: {
-    image: {
-      src: 'src/resources/images/nickgabe.png',
-      width: 600,
-    },
     styles: {
       align: 'center',
       style: 'for-the-badge',
       color: colors.lightSecondary,
       logoColor: colors.white,
     },
+    image: {
+      src: 'src/resources/images/nickgabe.png',
+      width: 600,
+    },
+    description: "👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.",
     badges: [
       {
         type: 'badge',

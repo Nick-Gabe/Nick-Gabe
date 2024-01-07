@@ -1,46 +1,34 @@
-# Name of workflow
-name: Update README
+name: Generate README
 
 on:
   schedule:
+    # Run this workflow everyday at 00:01 UTC
     - cron: '1 0 */1 * *'
-  # Run workflow on pushes to main branch
   push:
     branches:
       - main
 
-# Steps to carry out
 jobs:
   build:
-    # Create a ubuntu virtual machine
     runs-on: ubuntu-latest
 
-    # Checkout repo code
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      # Install node
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 16.10
-      - run: npm install
-      - run: npm run build --if-present
-        env:
-          CI: true
+          node-version: 20.9
+      - run: npm install --production
 
-      # Run script "index.js"
-      - name: Update README
-        run: |-
-          node src/index.js
-          cat README.md
+      - name: Generate README
+        run: node src/index.js
 
-      # Commit changes
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "readme-bot@example.com"
+          git config --global user.email "readme-bot@github.com"
           git config --global user.name "README-bot"
           git add -A
           git commit -m "Generated readme" || exit 0

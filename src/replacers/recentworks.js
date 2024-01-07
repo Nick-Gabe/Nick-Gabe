@@ -21,6 +21,7 @@ module.exports = async function (data) {
       border_color: styles.border_color,
       icon_color: styles.icon_color,
       border_radius: 20,
+      href: repo.html_url,
     });
 
   return repos.sort(getRecents).slice(0, data.repoQuantity).map(generateStatsImage).join('\n');

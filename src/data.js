@@ -41,6 +41,9 @@ module.exports = {
       },
     ],
   },
+  aboutme: {
+    list: ['* Nícolas Gabriel, 19 years', '* Full Stack programmer', '* Currently studying Python'],
+  },
   skillswall: {
     styles: {
       style: 'for-the-badge',

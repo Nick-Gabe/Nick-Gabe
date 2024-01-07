@@ -2,9 +2,7 @@
 
 ## **About me:**
 
-* Nícolas Gabriel, 19 years
-* Full Stack programmer
-* Currently studying Python
+%{aboutme}
 * %{myexperience}
 
 ## **Skills wall:**

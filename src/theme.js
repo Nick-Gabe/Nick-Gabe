@@ -4,7 +4,7 @@ const white = '#F2F2F2';
 module.exports = {
   colors: {
     primary: {
-      base: '#00FFD1',
+      base: '#F73C7B',
       over: black,
     },
     secondary: {

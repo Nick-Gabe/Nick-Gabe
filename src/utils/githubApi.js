@@ -6,7 +6,14 @@ async function GithubRequest(url) {
   if (process.env.GITHUB_TOKEN) {
     headers.append('Authorization', `Bearer ${process.env.GITHUB_TOKEN}`);
   }
-  return await (await fetch(`https://api.github.com/${url}`, headers)).json();
+
+  const response = await (
+    await fetch(`https://api.github.com/${url}`, {
+      headers,
+    })
+  ).json();
+
+  return response;
 }
 
 async function getRandomFollower(user) {

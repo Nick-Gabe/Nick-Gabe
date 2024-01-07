@@ -1,7 +1,7 @@
 // This data is passed to be used in the replacers. Like a ".env" file.
 // I opted to not use .env so it is possible to create custom objects, arrays and logic here.
 // You can modify, create or delete any property you want.
-const theme = require('./theme');
+const { colors } = require('./theme');
 
 module.exports = {
   user: 'nick-gabe',
@@ -15,8 +15,8 @@ module.exports = {
     styles: {
       align: 'center',
       style: 'for-the-badge',
-      color: theme.colors.lightSecondary,
-      logoColor: theme.colors.white,
+      color: colors.lightSecondary,
+      logoColor: colors.white,
     },
     badges: [
       {
@@ -40,46 +40,13 @@ module.exports = {
       },
     ],
   },
-  socialMedias: {
-    styles: {
-      align: 'left',
-      style: 'for-the-badge',
-      color: theme.colors.lightSecondary,
-      logoColor: theme.colors.white,
-    },
-    links: [
-      {
-        name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
-      },
-      {
-        name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
-      },
-      {
-        name: 'email',
-        logo: 'gmail',
-        href: 'mailto:nicolasgabrielctt@gmail.com',
-      },
-      {
-        name: 'npm',
-        href: 'https://www.npmjs.com/~nick-gabe',
-      },
-      {
-        name: 'codepen',
-        href: 'https://codepen.io/nick-gabe',
-      },
-      {
-        name: 'imnickgabe',
-        logo: 'discord',
-        labelColor: theme.colors.secondary,
-      },
-    ],
-  },
   skillswall: {
     styles: {
       style: 'for-the-badge',
       align: 'left',
+      highlightColor: colors.primary,
+      wallColors: [colors.secondary, colors.lightSecondary],
+      logoColor: colors.white,
     },
     randomOrder: true,
     skills: [
@@ -124,5 +91,54 @@ module.exports = {
       { name: 'Jira' },
       { name: 'GitHub Actions', isHighlighted: true },
     ],
+  },
+  socialMedias: {
+    styles: {
+      align: 'left',
+      style: 'for-the-badge',
+      color: colors.lightSecondary,
+      logoColor: colors.white,
+    },
+    links: [
+      {
+        name: 'twitter',
+        href: 'https://twitter.com/imnickgabe',
+      },
+      {
+        name: 'linkedin',
+        href: 'https://linkedin.com/in/nickgabe',
+      },
+      {
+        name: 'email',
+        logo: 'gmail',
+        href: 'mailto:nicolasgabrielctt@gmail.com',
+      },
+      {
+        name: 'npm',
+        href: 'https://www.npmjs.com/~nick-gabe',
+      },
+      {
+        name: 'codepen',
+        href: 'https://codepen.io/nick-gabe',
+      },
+      {
+        name: 'imnickgabe',
+        logo: 'discord',
+        labelColor: colors.secondary,
+      },
+    ],
+  },
+  githubStats: {
+    styles: {
+      style: 'for-the-badge',
+      align: 'center',
+      title_color: colors.primary,
+      text_color: colors.white,
+      bg_color: colors.secondary,
+      border_color: colors.black,
+      show_icons: true,
+      icon_color: colors.white,
+      rank_icon: 'github',
+    },
   },
 };

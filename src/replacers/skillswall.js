@@ -6,12 +6,16 @@ const encodeStr = (str) => encodeURI(str.toLowerCase());
 
 module.exports = function (data) {
   const skillswall = data.skillswall;
-  const { align, logoColor, wallColors, highlightColor, ...badgeGenericStyles } = skillswall.styles;
+  const { align, wallColors, highlightColor, ...badgeGenericStyles } = skillswall.styles;
 
-  const getWallColor = (options = { isHighlighted: false }) => ({
-    color: options.isHighlighted ? highlightColor : randomItem(wallColors),
-    logoColor,
-  });
+  const getWallColor = (options = { isHighlighted: false }) => {
+    const selectedColor = options.isHighlighted ? highlightColor : randomItem(wallColors);
+
+    return {
+      color: selectedColor.base,
+      logoColor: selectedColor.over,
+    };
+  };
 
   const imgSkills = skillswall.skills.map((skill) => {
     const name = encodeStr(skill.name);

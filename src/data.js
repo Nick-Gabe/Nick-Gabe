@@ -11,8 +11,8 @@ module.exports = {
     styles: {
       align: 'center',
       style: 'for-the-badge',
-      color: colors.lightSecondary,
-      logoColor: colors.white,
+      color: colors.lightSecondary.base,
+      logoColor: colors.lightSecondary.over,
     },
     image: {
       src: 'src/resources/images/nickgabe.png',
@@ -50,7 +50,6 @@ module.exports = {
       align: 'left',
       highlightColor: colors.primary,
       wallColors: [colors.secondary, colors.lightSecondary],
-      logoColor: colors.white,
     },
     randomOrder: true,
     skills: [
@@ -96,12 +95,21 @@ module.exports = {
       { name: 'GitHub Actions', isHighlighted: true },
     ],
   },
+  recentworks: {
+    styles: {
+      title_color: colors.primary.base,
+      text_color: colors.secondary.over,
+      bg_color: colors.secondary.base,
+      border_color: colors.black.base,
+      icon_color: colors.secondary.over,
+    },
+  },
   socialMedias: {
     styles: {
       align: 'left',
       style: 'for-the-badge',
-      color: colors.lightSecondary,
-      logoColor: colors.white,
+      color: colors.lightSecondary.base,
+      logoColor: colors.lightSecondary.over,
     },
     links: [
       {
@@ -128,7 +136,7 @@ module.exports = {
       {
         name: 'imnickgabe',
         logo: 'discord',
-        labelColor: colors.secondary,
+        labelColor: colors.secondary.base,
       },
     ],
   },
@@ -136,12 +144,12 @@ module.exports = {
     styles: {
       style: 'for-the-badge',
       align: 'center',
-      title_color: colors.primary,
-      text_color: colors.white,
-      bg_color: colors.secondary,
-      border_color: colors.black,
+      title_color: colors.primary.base,
+      text_color: colors.secondary.over,
+      bg_color: colors.secondary.base,
+      border_color: colors.black.base,
       show_icons: true,
-      icon_color: colors.white,
+      icon_color: colors.secondary.over,
       rank_icon: 'github',
     },
   },

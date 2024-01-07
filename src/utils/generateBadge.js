@@ -16,8 +16,10 @@ const generateQueryFromObject = (properties) => {
     .join('&');
 };
 
+const escapeString = (string) => string.replace(/[_-]/g, (match) => match.repeat(2));
+
 function generateBadge({ name, message, color = '', href, ...properties }) {
-  const path = [name, message, normalizeColor(color)].filter(Boolean).join('-');
+  const path = [name, message, normalizeColor(color)].filter(Boolean).map(escapeString).join('-');
 
   const query = generateQueryFromObject(properties);
 

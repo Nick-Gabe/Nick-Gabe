@@ -12,8 +12,8 @@ const getWallColor = (options = { isHighlighted: false }) => ({
   logoColor: theme.colors.white,
 });
 
-const encodeStr = (str, replacer) => {
-  return encodeURI(str.toLowerCase().replace(/-/g, replacer));
+const encodeStr = (str) => {
+  return encodeURI(str.toLowerCase());
 };
 
 module.exports = function (data) {
@@ -21,8 +21,8 @@ module.exports = function (data) {
   const { align, ...badgeGenericStyles } = skillswall.styles;
 
   const imgSkills = skillswall.skills.map((skill) => {
-    const name = encodeStr(skill.name, '_');
-    const logo = encodeStr(skill.logo ?? skill.name, '+');
+    const name = encodeStr(skill.name);
+    const logo = encodeStr(skill.logo ?? skill.name);
     const colors = getWallColor({ isHighlighted: skill.isHighlighted });
 
     return generateBadge({ name, logo, ...badgeGenericStyles, ...colors });

@@ -1,8 +1,8 @@
-<p align="center"><img src="src/resources/images/nickgabe.png" width="600"></p>
-<p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?style=for-the-badge&logo=esri&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=nick-gabe&style=for-the-badge&color=4D4577"></p>
+<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
+<p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+<img src="https://komarev.com/ghpvc/?username=nick-gabe&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
 
 <p align="center">
 👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.
@@ -17,46 +17,46 @@
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/css3-F73C7B?style=for-the-badge&logo=css3&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/jquery-393359?style=for-the-badge&logo=jquery&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/jira-393359?style=for-the-badge&logo=jira&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/sass-4D4577?style=for-the-badge&logo=sass&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/strapi-4D4577?style=for-the-badge&logo=strapi&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/firebase-4D4577?style=for-the-badge&logo=firebase&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/flask-393359?style=for-the-badge&logo=flask&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/sqlite-4D4577?style=for-the-badge&logo=sqlite&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/photoshop-393359?style=for-the-badge&logo=adobe-photoshop&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/markdown-4D4577?style=for-the-badge&logo=markdown&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/javascript-F73C7B?style=for-the-badge&logo=javascript&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/github%20pages-4D4577?style=for-the-badge&logo=github&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/typescript-F73C7B?style=for-the-badge&logo=typescript&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/docker-F73C7B?style=for-the-badge&logo=docker&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/heroku-4D4577?style=for-the-badge&logo=heroku&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/git-F73C7B?style=for-the-badge&logo=git&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/chakra-4D4577?style=for-the-badge&logo=chakraui&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/graphql-4D4577?style=for-the-badge&logo=graphql&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/fastapi-F73C7B?style=for-the-badge&logo=fastapi&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/github-4D4577?style=for-the-badge&logo=github&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/python-4D4577?style=for-the-badge&logo=python&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/express.js-393359?style=for-the-badge&logo=express&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/react%20native-393359?style=for-the-badge&logo=react&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/tailwindcss-F73C7B?style=for-the-badge&logo=tailwindcss&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/visual%20studio%20code-393359?style=for-the-badge&logo=visual-studio-code&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logo=npm&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/styled%20components-393359?style=for-the-badge&logo=styled-components&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/storybook-4D4577?style=for-the-badge&logo=storybook&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/bootstrap-4D4577?style=for-the-badge&logo=bootstrap&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/mongodb-393359?style=for-the-badge&logo=mongodb&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/vercel-4D4577?style=for-the-badge&logo=vercel&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/shell%20script-393359?style=for-the-badge&logo=gnu-bash&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/github%20actions-F73C7B?style=for-the-badge&logo=github-actions&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/ant_design-F73C7B?style=for-the-badge&logo=ant-design&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/figma-4D4577?style=for-the-badge&logo=figma&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/node.js-F73C7B?style=for-the-badge&logo=node.js&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/jest-393359?style=for-the-badge&logo=jest&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/netlify-4D4577?style=for-the-badge&logo=netlify&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/html5-4D4577?style=for-the-badge&logo=html5&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/react-F73C7B?style=for-the-badge&logo=react&logoColor=F2F2F2"></p>
+<p align="left"><img src="https://img.shields.io/badge/flask-4D4577?logo=flask&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jest-393359?logo=jest&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mongodb-393359?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/styled%20components-393359?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/netlify-4D4577?logo=netlify&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sqlite-393359?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/markdown-4D4577?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/shell%20script-4D4577?logo=gnu+bash&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/ant_design-F73C7B?logo=ant+design&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/strapi-4D4577?logo=strapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/storybook-393359?logo=storybook&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-393359?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/heroku-4D4577?logo=heroku&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe+photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/chakra-4D4577?logo=chakraui&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react%20native-393359?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jira-4D4577?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20actions-F73C7B?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-F73C7B?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/tailwindcss-F73C7B?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/firebase-4D4577?logo=firebase&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-4D4577?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/fastapi-F73C7B?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jquery-393359?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/graphql-4D4577?logo=graphql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
@@ -71,18 +71,18 @@
 
 *Click to be redirected*
 
-<p align="left"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:nicolasgabrielctt@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logo=codepen&logoColor=white"></a>
-<img src="https://img.shields.io/badge/imnickgabe-4D4577?style=for-the-badge&logo=discord&logoColor=white&labelColor=393359"></p>
+<p align="left"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
+<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:nicolasgabrielctt@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
+<a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a>
+<img src="https://img.shields.io/badge/imnickgabe-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Follower of the day**
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/isaqueelcio" alt="Isaque Elcio"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/elielcezar" alt="Eliel Cezar"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <hr>
 

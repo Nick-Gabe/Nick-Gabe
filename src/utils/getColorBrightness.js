@@ -1,7 +1,6 @@
 const { fromString } = require('css-color-converter')
 
 function getColorBrightness(color) {
-  console.log('dale')
   if (color) {
     const cssColor = fromString(color)
 

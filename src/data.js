@@ -42,7 +42,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nícolas Gabriel, 19 years', '* Full Stack programmer', '* Currently studying Python'],
+    list: ['* Nícolas Gabriel, 20 years', '* Full Stack programmer', '* Currently studying Python'],
   },
   skillswall: {
     styles: {
@@ -57,7 +57,7 @@ module.exports = {
       { name: 'HTML5' },
       { name: 'Markdown' },
       { name: 'CSS3', isHighlighted: true },
-      { name: 'Python' },
+      { name: 'Python', isHighlighted: true },
       { name: 'Shell Script', logo: 'gnu-bash' },
       { name: 'React', isHighlighted: true },
       { name: 'React Native', logo: 'react' },

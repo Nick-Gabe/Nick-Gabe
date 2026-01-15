@@ -42,7 +42,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nícolas Gabriel, 20 years', '* Full Stack programmer', '* Currently studying Python'],
+    list: ['* Nícolas Gabriel, 21 years', '* Full Stack Programmer', '* Currently studying Product Management'],
   },
   skillswall: {
     styles: {
